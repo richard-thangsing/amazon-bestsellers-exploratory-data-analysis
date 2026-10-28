@@ -47,6 +47,7 @@ The dataset contains information about bestselling books, as specified below:
 - 'COUNT' and 'COUNTA'
 - 'COUNTIF' and 'COUNTIFS'
 - 'SUMIF' and 'SUMIFS'
+- 'MAXIFS' and 'MINIFS'
 - 'UNIQUE' or 'SUMPRODUCT'
 - 'XLOOKUP' or 'VLOOKUP'
 - 'INDEX' and 'MATCH'
