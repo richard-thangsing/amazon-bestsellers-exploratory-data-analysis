@@ -104,3 +104,30 @@ Depending on the lookup value entered, the workbook can return details such as:
 - Lowest rating
 
 This section demonstrates the use of Excel lookup functions for retrieving information from a structured dataset.
+
+### 4. Top 5 Books by Reviews
+
+The books were sorted by review count to identify the five titles with the highest number of reviews.
+
+| Rank | Book Title | Reviews | Author | Genre |
+|------|------------|---------|--------|-------|
+| 1 | Where the Crawdads Sing | 87841 | Delia Owens | Fiction |
+| 2 | The Girl on the Train | 79446 | Paula Hawkins | Fiction |
+| 3 | Becoming | 61133 | Michelle Obama | Non Fiction |
+| 4 | Gone Girl | 57271 | Gillian Flynn | Fiction |
+| 5 | The Fault in Our Stars | 50482 | John Green | Fiction |
+
+> Since the analysis is done on an older Excel 2019 same title appears in multiple years, to handle that we used a classic Excel array formula to extract a unique, ranked list of items based on their total reviews, while systematically ignoring items that have already been listed to successfully break ties.
+
+> On Microsoft 365 or Excel 2021+, a single, dynamic formula using INDEX + SORT + FILTER placed in the top cell can automatically handles ties and sorts the data instantly.
+
+### PivotTable Analysis
+
+PivotTables were used to summarize and compare the data from different perspectives. These include:
+- Number of books by genre
+- Average rating by genre
+- Total reviews by author
+- Average price by genre
+- Number of books by year
+- Ratings or reviews over time
+- Top authors based on review count
