@@ -121,7 +121,7 @@ The books were sorted by review count to identify the five titles with the highe
 
 > On Microsoft 365 or Excel 2021+, a single, dynamic formula using INDEX + SORT + FILTER placed in the top cell can automatically handles ties and sorts the data instantly.
 
-### PivotTable Analysis
+### 5. PivotTable Analysis
 
 PivotTables were used to summarize and compare the data from different perspectives. These include:
 - Number of books by genre
@@ -131,3 +131,26 @@ PivotTables were used to summarize and compare the data from different perspecti
 - Number of books by year
 - Ratings or reviews over time
 - Top authors based on review count
+
+### 6. Dashboard and Interactivity
+
+PivotCharts were added to visualize the results of the analysis. Slicers allow users to filter the dashboard interactively. This provides a more user-friendly way to explore the dataset without editing formulas or manually filtering the raw data.
+
+---
+
+## Key Findings
+
+1. **Genre distribution:**
+
+   Non-fiction leads both total title volume (310 titles vs. 240 titles) and overall revenue ($4,601 vs. $2,604) across the 2009 - 2019 period. This provides us an insight into readers' psychology as the majority of the readers in our study prioritize utilitarian value over pure entertainment. 
+3. **Average rating:**
+4. **Review activity:**
+5. **Top-performing book:**
+6. **Author performance:**
+7. **Price pattern:**
+8. **Yearly trend:**
+---
+
+## Dashboard Preview
+
+
