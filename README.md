@@ -142,13 +142,33 @@ PivotCharts were added to visualize the results of the analysis. Slicers allow u
 
 1. **Genre distribution:**
 
-   Non-fiction leads both total title volume (310 titles vs. 240 titles) and overall revenue ($4,601 vs. $2,604) across the 2009 - 2019 period. This provides us an insight into readers' psychology as the majority of the readers in our study prioritize utilitarian value over pure entertainment. 
-3. **Average rating:**
-4. **Review activity:**
-5. **Top-performing book:**
-6. **Author performance:**
-7. **Price pattern:**
-8. **Yearly trend:**
+   Non-fiction leads both total title volume (310 titles vs. 240 titles) and overall revenue ($4,601 vs. $2,604) across the 2009 - 2019 period. This provides us an insight into readers' psychology - the majority of the readers in our study prioritize utilitarian value over pure entertainment. 
+2. **Average rating:**
+
+   Both the genres are nearly identical in their average ratings (4.65 vs. 4.6). This shows that ratings are a weak differentiator among bestsellers. These are all popular books, so there's likely a ceiling effect: nearly everything clusters near 4.5+, leaving little room to separate good from great. Other columns such as Reviews, Price, or Year will shed more light on what sets books apart.
+
+   
+3. **Review activity:**
+
+   - Fiction leads the total reviews (3764110 vs. 2810195).
+
+   - In Fiction, Where the Crawdads Sing by Delia Owens is the most reviewed book with 87,841 total reviews.
+
+
+   - Belonging by Michelle Obama with a total reviews of 61,133 is the most reviewed Non-fiction book.
+
+4. **Author performance:**
+
+   Suzanne Collins led the author power ranking with 278,329 cumulative reviews, followed by John Green with 210,419. E. L. James, Dr. Seuss, and Gillian Flynn completed the top five, indicating that reader engagement was concentrated among a relatively small group of high-performing authors.
+   
+5. **Price pattern:**
+
+   Bestseller records were heavily concentrated in the lower price ranges. The $0 - $10 category contained the most records, followed by the $11 - $20 category. The number of books declined sharply above $20, while books priced above $50 were rare.
+   
+6. **Yearly trend:**
+
+   Non-fiction accounted for more bestseller records than Fiction in most years from 2009 to 2019. Fiction exceeded Non-fiction only in 2014. The yearly monetary total for Non-fiction peaked at  511 in 2011 and then generally declined, while Fiction showed greater fluctuation and reached its lowest value of 159 in 2015.
+   
 ---
 
 ## Dashboard Preview
