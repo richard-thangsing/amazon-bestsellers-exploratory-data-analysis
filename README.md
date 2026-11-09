@@ -40,7 +40,6 @@ The dataset contains information about bestselling books, as specified below:
 
 ---
 ## Tools and Excel Features Used
-- Microsoft Excel
 - Excel Tables
 - Sorting and Filtering
 - 'AVERAGE' and 'AVERAGEIF'
@@ -168,6 +167,16 @@ PivotCharts were added to visualize the results of the analysis. Slicers allow u
 6. **Yearly trend:**
 
    Non-fiction accounted for more bestseller records than Fiction in most years from 2009 to 2019. Fiction exceeded Non-fiction only in 2014. The yearly monetary total for Non-fiction peaked at  511 in 2011 and then generally declined, while Fiction showed greater fluctuation and reached its lowest value of 159 in 2015.
+
+7. **Bidirectional causal feedback loop:**
+
+   Most of the bestsellers are adapted into movies/ TV shows. The relationship between bestseller status and Hollywood adaptations is a two-way economic flywheel:
+
+   I. _Pre-validated demand (Bestseller to movie deal)_:
+      Film studios purchase options on established bestsellers to lower financial risk. A book with millions of copies sold provides built-in brand recognition, proven narrative structure, and an existing fanbase.
+
+   II. _The "Hollywood Halo" Effect (Adaptation to bestseller spike):_
+      A film announcement, trailer release, or streaming launch acts as a massive marketing campaign. It exposes the book to non-readers, driving backlist sales, movie tie-in edition reprints, and propelling older or steady-selling titles back to the top of the bestseller charts.
    
 ---
 
