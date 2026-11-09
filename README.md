@@ -183,3 +183,6 @@ PivotCharts were added to visualize the results of the analysis. Slicers allow u
 ## Dashboard Preview
 
 
+![image alt](https://github.com/richard-thangsing/amazon-bestsellers-exploratory-data-analysis/blob/155755c35dfef4ca5f6b115fd254cb82c0e6f6cf/images/dashboard_preview.png)
+
+---
